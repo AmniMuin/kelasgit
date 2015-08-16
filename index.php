@@ -1,5 +1,3 @@
 <?php
-echo "Hi Git"
-echo "Bye Git"
-echo "Hello worlddd"
+eecho "Intro to Git Basic"
 ?>
